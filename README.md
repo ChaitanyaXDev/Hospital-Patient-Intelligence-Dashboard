@@ -212,7 +212,7 @@ Average Age =
 AVERAGE(Patients[Age])
 
 
--- 4. Average Stay
+-- 4. Average Stay 
 Average Stay =
 AVERAGE(Patients[Length_of_Stay_Days])
 
